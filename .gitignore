@@ -1,0 +1,3 @@
+# Not including the data ( link in README for download ) and not commiting notebook checkpoints
+Covid_Data_GradientCresent/
+.ipynb_checkpoints/
