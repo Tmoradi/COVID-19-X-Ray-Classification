@@ -17,6 +17,3 @@ The work has been divided into two notebooks, task1.ipynb and task2.ipynb
 For task1, using VGG19 as the base model for Transfer Learning, model was able to achieve 89 percent test accuracy. 
 
 For task2, models VGG19 and DenseNet only achieved 66 percent test accuracy.
-     
-- [ ] Currently working to improve model classification scores, will update README
-
